@@ -1,21 +1,12 @@
-## Hi there, I'm Vinicius 👋
+<h1 align="center">Hi 👋, I'm Vinicius</h1>
+<h3 align="center">My goal is to transform people's lives through technology, building applications aimed at the user's journey, aiming at accessibility, optimization and customer satisfaction. I have been working in the technology area since 2019, currently working with software development, using Python, AWS, GitLab and Angular. Bachelor of Science and Technology and studying Computer Science at Universidade Federal do ABC.</h3>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hespius&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hespius&layout=compact&langs_count=7&theme=dark"">
-</div>
-  
-<div style="display: inline_block">
-  <br>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hespius&label=Profile%20views&color=0e75b6&style=flat" alt="hespius" /> </p>
 
-##
 
-![Snake animation](https://github.com/hespius/hespius/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hespius&show_icons=true&locale=en&layout=compact&theme=dark" alt="hespius" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hespius&show_icons=true&locale=en&theme=dark" alt="hespius" /></p>
